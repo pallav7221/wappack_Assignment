@@ -1,0 +1,31 @@
+body{
+    width: 90%;
+    text-align: center;
+}
+#logo{
+    margin-bottom: 30px;
+    width: 200px;
+    height: 200px;
+}
+#notesBox{
+    margin: auto;
+    padding: 5px;
+    display: block;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+#buttonNotes{
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+}
+#notesPara{
+    margin: auto;
+    border: 2px solid black;
+    width: 50%;
+    margin-top: 10px;
+    font-size: 23px;
+}
+
